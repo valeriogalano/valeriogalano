@@ -1,4 +1,4 @@
-# Pensieri in codice
+# 🎙️ Pensieri in codice
 Raccolta di tutti i repository inerenti il progetto Pensieri in codice
 
 - [pensieriincodice-news-to-telegram](https://github.com/valeriogalano/pensieriincodice-news-to-telegram)

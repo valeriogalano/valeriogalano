@@ -21,6 +21,10 @@ Raccolta di tutti i repository inerenti il progetto Pensieri in codice
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/pensieriincodice-episode-to-telegram" alt="GitHub issues">\
   Cronjob per la pubblicazione automatica degli episodi del podcast Pensieri in codice da feed RSS a Telegram
 
+- [pensieriincodice-news-to-linkedin](https://github.com/valeriogalano/pensieriincodice-news-to-linkedin)
+  <img align="right" src="https://img.shields.io/github/issues/valeriogalano/pensieriincodice-news-to-linkedin" alt="GitHub issues">\
+  Cronjob per la pubblicazione automatica di link da Readwise a Linkedin
+  
 - [pensieriincodice-news-to-mastodon](https://github.com/valeriogalano/pensieriincodice-news-to-mastodon)
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/pensieriincodice-news-to-mastodon" alt="GitHub issues">\
   Cronjob per la pubblicazione automatica di link da Readwise a Mastodon

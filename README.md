@@ -28,7 +28,7 @@ Raccolta di tutti i repository inerenti il progetto Pensieri in codice
 - [pensieriincodice-news-to-mastodon](https://github.com/valeriogalano/pensieriincodice-news-to-mastodon)
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/pensieriincodice-news-to-mastodon" alt="GitHub issues">\
   Cronjob per la pubblicazione automatica di link da Readwise a Mastodon
-  
+
 - [pensieriincodice-news-to-telegram](https://github.com/valeriogalano/pensieriincodice-news-to-telegram)
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/pensieriincodice-news-to-telegram" alt="GitHub issues">\
   Cronjob per la pubblicazione automatica di link da Readwise a Telegram 
@@ -36,3 +36,7 @@ Raccolta di tutti i repository inerenti il progetto Pensieri in codice
 - [pensieriincodice-website](https://github.com/valeriogalano/pensieriincodice-website)
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/pensieriincodice-website" alt="GitHub issues">\
   Sito ufficiale del podcast Pensieri in codice
+
+- [podcast-audiogram-generator](https://github.com/valeriogalano/podcast-audiogram-generator)
+  <img align="right" src="https://img.shields.io/github/issues/valeriogalano/podcast-audiogram-generator" alt="GitHub issues">\
+  Tool per la generazione automatica di audiogrammi da pubblicare sui social a partire da podcast solo audio

@@ -4,7 +4,7 @@ Raccolta di tutti i repository inerenti il progetto Pensieri in codice
 - [pensieriincodice-assets](https://github.com/valeriogalano/pensieriincodice-assets)
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/pensieriincodice-assets" alt="GitHub issues">\
   Raccolta dei file sorgenti per la creazione di locandine, immagini, loghi, ecc.
-  
+
 - [pensieriincodice-cdn](https://github.com/valeriogalano/pensieriincodice-cdn)
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/pensieriincodice-cdn" alt="GitHub issues">\
   Raccolta dei file statici del sito e del podcast (immagini, episodi, locandine, trascrizioni, ecc.)
@@ -12,7 +12,7 @@ Raccolta di tutti i repository inerenti il progetto Pensieri in codice
 - [pensieriincodice-episode-to-linkedin](https://github.com/valeriogalano/pensieriincodice-episode-to-linkedin)
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/pensieriincodice-episode-to-linkedin" alt="GitHub issues">\
   Cronjob per la pubblicazione automatica degli episodi del podcast Pensieri in codice da feed RSS a Linkedin
-  
+
 - [pensieriincodice-episode-to-mastodon](https://github.com/valeriogalano/pensieriincodice-episode-to-mastodon)
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/pensieriincodice-episode-to-mastodon" alt="GitHub issues">\
   Cronjob per la pubblicazione automatica degli episodi del podcast Pensieri in codice da feed RSS a Mastodon
@@ -21,22 +21,37 @@ Raccolta di tutti i repository inerenti il progetto Pensieri in codice
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/pensieriincodice-episode-to-telegram" alt="GitHub issues">\
   Cronjob per la pubblicazione automatica degli episodi del podcast Pensieri in codice da feed RSS a Telegram
 
+- [pensieriincodice-episode-to-x](https://github.com/valeriogalano/pensieriincodice-episode-to-x)
+  <img align="right" src="https://img.shields.io/github/issues/valeriogalano/pensieriincodice-episode-to-x" alt="GitHub issues">\
+  GitHub Action che pubblica automaticamente i nuovi episodi del podcast su X (Twitter)
+
+- [pensieriincodice-news-to-hugo](https://github.com/valeriogalano/pensieriincodice-news-to-hugo)
+  <img align="right" src="https://img.shields.io/github/issues/valeriogalano/pensieriincodice-news-to-hugo" alt="GitHub issues">\
+  Pubblica automaticamente le news di Pensieri in codice nel sito pensieriincodice.it, prelevandole da Readwise
+
 - [pensieriincodice-news-to-linkedin](https://github.com/valeriogalano/pensieriincodice-news-to-linkedin)
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/pensieriincodice-news-to-linkedin" alt="GitHub issues">\
   Cronjob per la pubblicazione automatica di link da Readwise a Linkedin
-  
+
 - [pensieriincodice-news-to-mastodon](https://github.com/valeriogalano/pensieriincodice-news-to-mastodon)
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/pensieriincodice-news-to-mastodon" alt="GitHub issues">\
   Cronjob per la pubblicazione automatica di link da Readwise a Mastodon
 
 - [pensieriincodice-news-to-telegram](https://github.com/valeriogalano/pensieriincodice-news-to-telegram)
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/pensieriincodice-news-to-telegram" alt="GitHub issues">\
-  Cronjob per la pubblicazione automatica di link da Readwise a Telegram 
+  Cronjob per la pubblicazione automatica di link da Readwise a Telegram
 
 - [pensieriincodice-website](https://github.com/valeriogalano/pensieriincodice-website)
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/pensieriincodice-website" alt="GitHub issues">\
   Sito ufficiale del podcast Pensieri in codice
 
+# 🎧 Podcast tools
+Raccolta di tool generici per la gestione e pubblicazione di podcast
+
 - [podcast-audiogram-generator](https://github.com/valeriogalano/podcast-audiogram-generator)
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/podcast-audiogram-generator" alt="GitHub issues">\
   Tool per la generazione automatica di audiogrammi da pubblicare sui social a partire da podcast solo audio
+
+- [podcast-audiogram-publisher](https://github.com/valeriogalano/podcast-audiogram-publisher)
+  <img align="right" src="https://img.shields.io/github/issues/valeriogalano/podcast-audiogram-publisher" alt="GitHub issues">\
+  CLI tool per la pubblicazione di audiogrammi video generati da podcast-audiogram-generator sui social media

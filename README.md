@@ -3,15 +3,15 @@ Raccolta di tutti i repository inerenti il progetto Pensieri in codice
 
 - [pensieriincodice-assets](https://github.com/valeriogalano/pensieriincodice-assets)
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/pensieriincodice-assets" alt="GitHub issues">\
-  Raccolta dei file sorgenti per la creazione di locandine, immagini, loghi, ecc.
+  Asset sorgente del podcast Pensieri in codice: frame, font, audio e immagini per la produzione
 
 - [pensieriincodice-cdn](https://github.com/valeriogalano/pensieriincodice-cdn)
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/pensieriincodice-cdn" alt="GitHub issues">\
-  Raccolta dei file statici del sito e del podcast (immagini, episodi, locandine, trascrizioni, ecc.)
+  Repository CDN con asset statici e automazioni per la produzione degli episodi di Pensieri in codice
 
 - [pensieriincodice-episode-to-linkedin](https://github.com/valeriogalano/pensieriincodice-episode-to-linkedin)
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/pensieriincodice-episode-to-linkedin" alt="GitHub issues">\
-  Cronjob per la pubblicazione automatica degli episodi del podcast Pensieri in codice da feed RSS a Linkedin
+  GitHub Action per la pubblicazione automatica degli episodi del podcast Pensieri in codice da feed RSS a LinkedIn
 
 - [pensieriincodice-episode-to-mastodon](https://github.com/valeriogalano/pensieriincodice-episode-to-mastodon)
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/pensieriincodice-episode-to-mastodon" alt="GitHub issues">\
@@ -19,11 +19,11 @@ Raccolta di tutti i repository inerenti il progetto Pensieri in codice
 
 - [pensieriincodice-episode-to-telegram](https://github.com/valeriogalano/pensieriincodice-episode-to-telegram)
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/pensieriincodice-episode-to-telegram" alt="GitHub issues">\
-  Cronjob per la pubblicazione automatica degli episodi del podcast Pensieri in codice da feed RSS a Telegram
+  GitHub Action per la pubblicazione automatica degli episodi del podcast Pensieri in codice da feed RSS a Telegram
 
 - [pensieriincodice-episode-to-x](https://github.com/valeriogalano/pensieriincodice-episode-to-x)
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/pensieriincodice-episode-to-x" alt="GitHub issues">\
-  GitHub Action che pubblica automaticamente i nuovi episodi del podcast su X (Twitter)
+  GitHub Action per la pubblicazione automatica degli episodi del podcast Pensieri in codice da feed RSS a X (Twitter)
 
 - [pensieriincodice-news-to-hugo](https://github.com/valeriogalano/pensieriincodice-news-to-hugo)
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/pensieriincodice-news-to-hugo" alt="GitHub issues">\
@@ -31,19 +31,19 @@ Raccolta di tutti i repository inerenti il progetto Pensieri in codice
 
 - [pensieriincodice-news-to-linkedin](https://github.com/valeriogalano/pensieriincodice-news-to-linkedin)
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/pensieriincodice-news-to-linkedin" alt="GitHub issues">\
-  Cronjob per la pubblicazione automatica di link da Readwise a Linkedin
+  Pubblica automaticamente le news di Pensieri in codice da Readwise sull'account LinkedIn del podcast
 
 - [pensieriincodice-news-to-mastodon](https://github.com/valeriogalano/pensieriincodice-news-to-mastodon)
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/pensieriincodice-news-to-mastodon" alt="GitHub issues">\
-  Cronjob per la pubblicazione automatica di link da Readwise a Mastodon
+  Pubblica automaticamente le news di Pensieri in codice da Readwise sull'account Mastodon del podcast
 
 - [pensieriincodice-news-to-telegram](https://github.com/valeriogalano/pensieriincodice-news-to-telegram)
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/pensieriincodice-news-to-telegram" alt="GitHub issues">\
-  Cronjob per la pubblicazione automatica di link da Readwise a Telegram
+  Pubblica automaticamente le news di Pensieri in codice da Readwise al gruppo Telegram del podcast
 
 - [pensieriincodice-website](https://github.com/valeriogalano/pensieriincodice-website)
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/pensieriincodice-website" alt="GitHub issues">\
-  Sito ufficiale del podcast Pensieri in codice
+  Sito web ufficiale del podcast Pensieri in codice, generato con Hugo
 
 - [botcaster-quiz-generator](https://github.com/valeriogalano/botcaster-quiz-generator)
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/botcaster-quiz-generator" alt="GitHub issues">\
@@ -54,7 +54,7 @@ Raccolta di tool generici per la gestione e pubblicazione di podcast
 
 - [podcast-feed-hugo](https://github.com/valeriogalano/podcast-feed-hugo)
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/podcast-feed-hugo" alt="GitHub issues">\
-  Modulo Hugo per la generazione di feed RSS podcast conformi agli standard iTunes e Podcast Index
+  Hugo module for generating standards-compliant podcast RSS feeds with iTunes and Podcast Index namespace support
 
 - [podcast-audiogram-generator](https://github.com/valeriogalano/podcast-audiogram-generator)
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/podcast-audiogram-generator" alt="GitHub issues">\

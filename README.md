@@ -45,8 +45,16 @@ Raccolta di tutti i repository inerenti il progetto Pensieri in codice
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/pensieriincodice-website" alt="GitHub issues">\
   Sito ufficiale del podcast Pensieri in codice
 
+- [botcaster-quiz-generator](https://github.com/valeriogalano/botcaster-quiz-generator)
+  <img align="right" src="https://img.shields.io/github/issues/valeriogalano/botcaster-quiz-generator" alt="GitHub issues">\
+  GitHub Action che genera e pubblica quiz giornalieri nel canale Telegram del podcast, usando Claude AI
+
 # 🎧 Podcast tools
 Raccolta di tool generici per la gestione e pubblicazione di podcast
+
+- [podcast-feed-hugo](https://github.com/valeriogalano/podcast-feed-hugo)
+  <img align="right" src="https://img.shields.io/github/issues/valeriogalano/podcast-feed-hugo" alt="GitHub issues">\
+  Modulo Hugo per la generazione di feed RSS podcast conformi agli standard iTunes e Podcast Index
 
 - [podcast-audiogram-generator](https://github.com/valeriogalano/podcast-audiogram-generator)
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/podcast-audiogram-generator" alt="GitHub issues">\
@@ -55,3 +63,18 @@ Raccolta di tool generici per la gestione e pubblicazione di podcast
 - [podcast-audiogram-publisher](https://github.com/valeriogalano/podcast-audiogram-publisher)
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/podcast-audiogram-publisher" alt="GitHub issues">\
   CLI tool per la pubblicazione di audiogrammi video generati da podcast-audiogram-generator sui social media
+
+- [social-carousel-generator](https://github.com/valeriogalano/social-carousel-generator)
+  <img align="right" src="https://img.shields.io/github/issues/valeriogalano/social-carousel-generator" alt="GitHub issues">\
+  Script Python per generare carousel social a partire da testi Markdown e immagini template
+
+---
+
+<div align="center">
+  <p>Realizzato con ❤️ da <strong>Valerio Galano</strong></p>
+  <p>
+    <a href="https://valeriogalano.it/">Sito Web</a> |
+    <a href="https://daredevel.com/">Blog</a> |
+    <a href="https://pensieriincodice.it/">Podcast</a>
+  </p>
+</div>

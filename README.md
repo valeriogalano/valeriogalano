@@ -67,14 +67,3 @@ Raccolta di tool generici per la gestione e pubblicazione di podcast
 - [social-carousel-generator](https://github.com/valeriogalano/social-carousel-generator)
   <img align="right" src="https://img.shields.io/github/issues/valeriogalano/social-carousel-generator" alt="GitHub issues">\
   Script Python per generare carousel social a partire da testi Markdown e immagini template
-
----
-
-<div align="center">
-  <p>Realizzato con ❤️ da <strong>Valerio Galano</strong></p>
-  <p>
-    <a href="https://valeriogalano.it/">Sito Web</a> |
-    <a href="https://daredevel.com/">Blog</a> |
-    <a href="https://pensieriincodice.it/">Podcast</a>
-  </p>
-</div>

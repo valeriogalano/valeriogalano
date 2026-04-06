@@ -103,3 +103,37 @@ Raccolta di tool generici per la gestione e pubblicazione di podcast
   Script Python per generare carousel social a partire da testi Markdown e immagini template  
   ![last commit](https://img.shields.io/github/last-commit/valeriogalano/social-carousel-generator) ![language](https://img.shields.io/github/languages/top/valeriogalano/social-carousel-generator) ![license](https://img.shields.io/github/license/valeriogalano/social-carousel-generator)  
   ![issues](https://img.shields.io/github/issues/valeriogalano/social-carousel-generator)
+
+---
+
+# 🌐 valeriogalano.it
+Repository del sito personale e dei relativi asset
+
+---
+
+- **[valeriogalano-website](https://github.com/valeriogalano/valeriogalano-website)**  
+  Sito personale di Valerio Galano, costruito con Hugo e un tema custom in stile Vim  
+  ![last commit](https://img.shields.io/github/last-commit/valeriogalano/valeriogalano-website) ![language](https://img.shields.io/github/languages/top/valeriogalano/valeriogalano-website) ![license](https://img.shields.io/github/license/valeriogalano/valeriogalano-website)  
+  ![issues](https://img.shields.io/github/issues/valeriogalano/valeriogalano-website) ![build](https://img.shields.io/github/actions/workflow/status/valeriogalano/valeriogalano-website/hugo.yml?label=build) ![uptime](https://img.shields.io/website?url=https%3A%2F%2Fvaleriogalano.it&label=uptime)
+
+- **[valeriogalano-assets](https://github.com/valeriogalano/valeriogalano-assets)**  
+  Asset sorgente per valeriogalano.it: immagini, loghi e media per il brand personale  
+  ![last commit](https://img.shields.io/github/last-commit/valeriogalano/valeriogalano-assets) ![license](https://img.shields.io/github/license/valeriogalano/valeriogalano-assets)  
+  ![issues](https://img.shields.io/github/issues/valeriogalano/valeriogalano-assets)
+
+---
+
+# ✍️ daredevel.com
+Repository del blog e dei relativi asset
+
+---
+
+- **[daredevel-website](https://github.com/valeriogalano/daredevel-website)**  
+  Blog personale di Valerio Galano su daredevel.com, pubblicato tramite Netlify  
+  ![last commit](https://img.shields.io/github/last-commit/valeriogalano/daredevel-website) ![language](https://img.shields.io/github/languages/top/valeriogalano/daredevel-website) ![license](https://img.shields.io/github/license/valeriogalano/daredevel-website)  
+  ![issues](https://img.shields.io/github/issues/valeriogalano/daredevel-website) ![uptime](https://img.shields.io/website?url=https%3A%2F%2Fdaredevel.com&label=uptime)
+
+- **[daredevel-assets](https://github.com/valeriogalano/daredevel-assets)**  
+  Asset sorgente per daredevel.com: immagini, loghi e media per il brand  
+  ![last commit](https://img.shields.io/github/last-commit/valeriogalano/daredevel-assets) ![license](https://img.shields.io/github/license/valeriogalano/daredevel-assets)  
+  ![issues](https://img.shields.io/github/issues/valeriogalano/daredevel-assets)

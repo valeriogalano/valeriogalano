@@ -18,50 +18,64 @@ Raccolta di tutti i repository inerenti il progetto Pensieri in codice
   ![last commit](https://img.shields.io/github/last-commit/valeriogalano/pensieriincodice-website) ![language](https://img.shields.io/github/languages/top/valeriogalano/pensieriincodice-website) ![license](https://img.shields.io/github/license/valeriogalano/pensieriincodice-website)  
   ![issues](https://img.shields.io/github/issues/valeriogalano/pensieriincodice-website) ![build](https://img.shields.io/github/actions/workflow/status/valeriogalano/pensieriincodice-website/qadisha.yml?label=build) ![uptime](https://img.shields.io/website?url=https%3A%2F%2Fpensieriincodice.it&label=uptime)
 
+---
+
+# 📡 Podcast RSS to social
+Tool per la pubblicazione automatica di contenuti podcast dai feed RSS ai social network
+
+---
+
 - **[podcast-rss-to-telegram](https://github.com/valeriogalano/podcast-rss-to-telegram)**  
-  GitHub Action per la pubblicazione automatica degli episodi del podcast Pensieri in codice da feed RSS a Telegram  
+  GitHub Action per la pubblicazione automatica degli episodi di un podcast da feed RSS a Telegram  
   ![last commit](https://img.shields.io/github/last-commit/valeriogalano/podcast-rss-to-telegram) ![language](https://img.shields.io/github/languages/top/valeriogalano/podcast-rss-to-telegram) ![license](https://img.shields.io/github/license/valeriogalano/podcast-rss-to-telegram)  
   ![issues](https://img.shields.io/github/issues/valeriogalano/podcast-rss-to-telegram) ![build](https://img.shields.io/github/actions/workflow/status/valeriogalano/podcast-rss-to-telegram/cron.yml?label=build)
 
 - **[podcast-rss-to-mastodon](https://github.com/valeriogalano/podcast-rss-to-mastodon)**  
-  Cronjob per la pubblicazione automatica degli episodi del podcast Pensieri in codice da feed RSS a Mastodon  
+  GitHub Action per la pubblicazione automatica degli episodi di un podcast da feed RSS a Mastodon  
   ![last commit](https://img.shields.io/github/last-commit/valeriogalano/podcast-rss-to-mastodon) ![language](https://img.shields.io/github/languages/top/valeriogalano/podcast-rss-to-mastodon) ![license](https://img.shields.io/github/license/valeriogalano/podcast-rss-to-mastodon)  
   ![issues](https://img.shields.io/github/issues/valeriogalano/podcast-rss-to-mastodon) ![build](https://img.shields.io/github/actions/workflow/status/valeriogalano/podcast-rss-to-mastodon/cron.yml?label=build)
 
 - **[podcast-rss-to-x](https://github.com/valeriogalano/podcast-rss-to-x)**  
-  GitHub Action per la pubblicazione automatica degli episodi del podcast Pensieri in codice da feed RSS a X (Twitter)  
+  GitHub Action per la pubblicazione automatica degli episodi di un podcast da feed RSS a X (Twitter)  
   ![last commit](https://img.shields.io/github/last-commit/valeriogalano/podcast-rss-to-x) ![language](https://img.shields.io/github/languages/top/valeriogalano/podcast-rss-to-x) ![license](https://img.shields.io/github/license/valeriogalano/podcast-rss-to-x)  
   ![issues](https://img.shields.io/github/issues/valeriogalano/podcast-rss-to-x) ![build](https://img.shields.io/github/actions/workflow/status/valeriogalano/podcast-rss-to-x/cron.yml?label=build)
 
 - **[podcast-rss-to-linkedin](https://github.com/valeriogalano/podcast-rss-to-linkedin)**  
-  GitHub Action per la pubblicazione automatica degli episodi del podcast Pensieri in codice da feed RSS a LinkedIn  
+  GitHub Action per la pubblicazione automatica degli episodi di un podcast da feed RSS a LinkedIn  
   ![last commit](https://img.shields.io/github/last-commit/valeriogalano/podcast-rss-to-linkedin) ![language](https://img.shields.io/github/languages/top/valeriogalano/podcast-rss-to-linkedin) ![license](https://img.shields.io/github/license/valeriogalano/podcast-rss-to-linkedin)  
   ![issues](https://img.shields.io/github/issues/valeriogalano/podcast-rss-to-linkedin) ![build](https://img.shields.io/github/actions/workflow/status/valeriogalano/podcast-rss-to-linkedin/cron.yml?label=build)
 
+- **[podcast-quiz-to-telegram](https://github.com/valeriogalano/podcast-quiz-to-telegram)**  
+  GitHub Action che genera e pubblica quiz giornalieri su un canale Telegram di un podcast, usando Claude AI  
+  ![last commit](https://img.shields.io/github/last-commit/valeriogalano/podcast-quiz-to-telegram) ![language](https://img.shields.io/github/languages/top/valeriogalano/podcast-quiz-to-telegram) ![license](https://img.shields.io/github/license/valeriogalano/podcast-quiz-to-telegram)  
+  ![issues](https://img.shields.io/github/issues/valeriogalano/podcast-quiz-to-telegram) ![build](https://img.shields.io/github/actions/workflow/status/valeriogalano/podcast-quiz-to-telegram/quiz.yml?label=build)
+
+---
+
+# 📰 Readwise to social
+Tool per la pubblicazione automatica di articoli e news da Readwise ai social network
+
+---
+
 - **[readwise-to-telegram](https://github.com/valeriogalano/readwise-to-telegram)**  
-  Pubblica automaticamente le news di Pensieri in codice da Readwise al gruppo Telegram del podcast  
+  Pubblica automaticamente articoli e news da Readwise su Telegram  
   ![last commit](https://img.shields.io/github/last-commit/valeriogalano/readwise-to-telegram) ![language](https://img.shields.io/github/languages/top/valeriogalano/readwise-to-telegram) ![license](https://img.shields.io/github/license/valeriogalano/readwise-to-telegram)  
   ![issues](https://img.shields.io/github/issues/valeriogalano/readwise-to-telegram) ![build](https://img.shields.io/github/actions/workflow/status/valeriogalano/readwise-to-telegram/cron.yml?label=build)
 
 - **[readwise-to-mastodon](https://github.com/valeriogalano/readwise-to-mastodon)**  
-  Pubblica automaticamente le news di Pensieri in codice da Readwise sull'account Mastodon del podcast  
+  Pubblica automaticamente articoli e news da Readwise su Mastodon  
   ![last commit](https://img.shields.io/github/last-commit/valeriogalano/readwise-to-mastodon) ![language](https://img.shields.io/github/languages/top/valeriogalano/readwise-to-mastodon) ![license](https://img.shields.io/github/license/valeriogalano/readwise-to-mastodon)  
   ![issues](https://img.shields.io/github/issues/valeriogalano/readwise-to-mastodon) ![build](https://img.shields.io/github/actions/workflow/status/valeriogalano/readwise-to-mastodon/cron.yml?label=build)
 
 - **[readwise-to-linkedin](https://github.com/valeriogalano/readwise-to-linkedin)**  
-  Pubblica automaticamente le news di Pensieri in codice da Readwise sull'account LinkedIn del podcast  
+  Pubblica automaticamente articoli e news da Readwise su LinkedIn  
   ![last commit](https://img.shields.io/github/last-commit/valeriogalano/readwise-to-linkedin) ![language](https://img.shields.io/github/languages/top/valeriogalano/readwise-to-linkedin) ![license](https://img.shields.io/github/license/valeriogalano/readwise-to-linkedin)  
   ![issues](https://img.shields.io/github/issues/valeriogalano/readwise-to-linkedin) ![build](https://img.shields.io/github/actions/workflow/status/valeriogalano/readwise-to-linkedin/cron.yml?label=build)
 
 - **[readwise-to-hugo](https://github.com/valeriogalano/readwise-to-hugo)**  
-  Pubblica automaticamente le news di Pensieri in codice nel sito pensieriincodice.it, prelevandole da Readwise  
+  Pubblica automaticamente articoli e news da Readwise in un sito Hugo  
   ![last commit](https://img.shields.io/github/last-commit/valeriogalano/readwise-to-hugo) ![language](https://img.shields.io/github/languages/top/valeriogalano/readwise-to-hugo) ![license](https://img.shields.io/github/license/valeriogalano/readwise-to-hugo)  
   ![issues](https://img.shields.io/github/issues/valeriogalano/readwise-to-hugo) ![build](https://img.shields.io/github/actions/workflow/status/valeriogalano/readwise-to-hugo/cron.yml?label=build)
-
-- **[podcast-quiz-to-telegram](https://github.com/valeriogalano/podcast-quiz-to-telegram)**  
-  GitHub Action che genera e pubblica quiz giornalieri nel canale Telegram del podcast, usando Claude AI  
-  ![last commit](https://img.shields.io/github/last-commit/valeriogalano/podcast-quiz-to-telegram) ![language](https://img.shields.io/github/languages/top/valeriogalano/podcast-quiz-to-telegram) ![license](https://img.shields.io/github/license/valeriogalano/podcast-quiz-to-telegram)  
-  ![issues](https://img.shields.io/github/issues/valeriogalano/podcast-quiz-to-telegram) ![build](https://img.shields.io/github/actions/workflow/status/valeriogalano/podcast-quiz-to-telegram/quiz.yml?label=build)
 
 ---
 
@@ -89,14 +103,3 @@ Raccolta di tool generici per la gestione e pubblicazione di podcast
   Script Python per generare carousel social a partire da testi Markdown e immagini template  
   ![last commit](https://img.shields.io/github/last-commit/valeriogalano/social-carousel-generator) ![language](https://img.shields.io/github/languages/top/valeriogalano/social-carousel-generator) ![license](https://img.shields.io/github/license/valeriogalano/social-carousel-generator)  
   ![issues](https://img.shields.io/github/issues/valeriogalano/social-carousel-generator)
-
----
-
-<div align="center">
-  <p>Realizzato con ❤️ da <strong>Valerio Galano</strong></p>
-  <p>
-    <a href="https://valeriogalano.it/">Sito Web</a> |
-    <a href="https://daredevel.com/">Blog</a> |
-    <a href="https://pensieriincodice.it/">Podcast</a>
-  </p>
-</div>

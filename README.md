@@ -11,7 +11,7 @@ Raccolta di tutti i repository inerenti il progetto Pensieri in codice
 - **[pensieriincodice-cdn](https://github.com/valeriogalano/pensieriincodice-cdn)**  
   Repository CDN con asset statici e automazioni per la produzione degli episodi di Pensieri in codice  
   ![last commit](https://img.shields.io/github/last-commit/valeriogalano/pensieriincodice-cdn) ![language](https://img.shields.io/github/languages/top/valeriogalano/pensieriincodice-cdn) ![license](https://img.shields.io/github/license/valeriogalano/pensieriincodice-cdn)  
-  ![issues](https://img.shields.io/github/issues/valeriogalano/pensieriincodice-cdn) ![build](https://img.shields.io/github/actions/workflow/status/valeriogalano/pensieriincodice-cdn/deploy.yml?label=build)
+  ![issues](https://img.shields.io/github/issues/valeriogalano/pensieriincodice-cdn) ![build](https://img.shields.io/github/actions/workflow/status/valeriogalano/pensieriincodice-cdn/deploy.yml?label=build) ![uptime](https://img.shields.io/website?url=https%3A%2F%2Fcdn.pensieriincodice.it&label=uptime)
 
 - **[pensieriincodice-website](https://github.com/valeriogalano/pensieriincodice-website)**  
   Sito web ufficiale del podcast Pensieri in codice, generato con Hugo  

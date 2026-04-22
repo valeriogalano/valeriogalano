@@ -129,7 +129,7 @@ Repository del blog e dei relativi asset
 ---
 
 - **[daredevel-website](https://github.com/valeriogalano/daredevel-website)**  
-  Blog personale di Valerio Galano su daredevel.com, pubblicato tramite Netlify  
+  Blog personale di Valerio Galano su daredevel.com  
   ![last commit](https://img.shields.io/github/last-commit/valeriogalano/daredevel-website) ![language](https://img.shields.io/github/languages/top/valeriogalano/daredevel-website) ![license](https://img.shields.io/github/license/valeriogalano/daredevel-website)  
   ![issues](https://img.shields.io/github/issues/valeriogalano/daredevel-website) ![uptime](https://img.shields.io/website?url=https%3A%2F%2Fdaredevel.com&label=uptime)
 

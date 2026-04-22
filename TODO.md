@@ -1,3 +1,0 @@
- - [ ] Aggiungi licenze ai repo che non ce l'hanno
- - [x] Aggiungi badge uptime ai website che non ce l'hanno
- - [x] Aggiungi badge build a script che non ce l'hanno

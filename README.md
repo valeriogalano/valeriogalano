@@ -20,10 +20,10 @@ Raccolta di tutti i repository inerenti il progetto Pensieri in codice
 
 ---
 
-# 📡 Podcast RSS to social
-Tool per la pubblicazione automatica di contenuti podcast dai feed RSS ai social network
+# 📤 Social publishing tools
+Tool per la pubblicazione automatica di contenuti sui social network
 
----
+### 📡 Da feed RSS
 
 - **[podcast-rss-to-telegram](https://github.com/valeriogalano/podcast-rss-to-telegram)**  
   GitHub Action per la pubblicazione automatica degli episodi di un podcast da feed RSS a Telegram  
@@ -50,12 +50,7 @@ Tool per la pubblicazione automatica di contenuti podcast dai feed RSS ai social
   ![last commit](https://img.shields.io/github/last-commit/valeriogalano/podcast-quiz-to-telegram) ![language](https://img.shields.io/github/languages/top/valeriogalano/podcast-quiz-to-telegram) ![license](https://img.shields.io/github/license/valeriogalano/podcast-quiz-to-telegram)  
   ![issues](https://img.shields.io/github/issues/valeriogalano/podcast-quiz-to-telegram) ![build](https://img.shields.io/github/actions/workflow/status/valeriogalano/podcast-quiz-to-telegram/quiz.yml?label=build)
 
----
-
-# 📰 Readwise to social
-Tool per la pubblicazione automatica di articoli e news da Readwise ai social network
-
----
+### 📰 Da Readwise
 
 - **[readwise-to-telegram](https://github.com/valeriogalano/readwise-to-telegram)**  
   Pubblica automaticamente articoli e news da Readwise su Telegram  
@@ -106,8 +101,8 @@ Raccolta di tool generici per la gestione e pubblicazione di podcast
 
 ---
 
-# 🌐 valeriogalano.it
-Repository del sito personale e dei relativi asset
+# 🌐 Siti web
+Repository dei siti personali e dei relativi asset
 
 ---
 
@@ -120,13 +115,6 @@ Repository del sito personale e dei relativi asset
   Asset sorgente per valeriogalano.it: immagini, loghi e media per il brand personale  
   ![last commit](https://img.shields.io/github/last-commit/valeriogalano/valeriogalano-assets) ![license](https://img.shields.io/github/license/valeriogalano/valeriogalano-assets)  
   ![issues](https://img.shields.io/github/issues/valeriogalano/valeriogalano-assets)
-
----
-
-# ✍️ daredevel.com
-Repository del blog e dei relativi asset
-
----
 
 - **[daredevel-website](https://github.com/valeriogalano/daredevel-website)**  
   Blog personale di Valerio Galano su daredevel.com  
